@@ -1,0 +1,2 @@
+### users list
+GET http://localhost:4000/ntlm

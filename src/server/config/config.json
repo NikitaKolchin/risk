@@ -1,0 +1,10 @@
+{
+	"port": 4000,
+	"db": {
+		"driver": "msnodesqlv8",
+		"connectionString": "Driver={SQL Server Native Client 11.0};Server={DESKTOP-Q3QSNEM\\SQLEXPRESS};Database={mlp};Uid={sa};Pwd={qwasdx=1}",
+		"requestTimeout":30000,
+		"idleTimeoutMillis":30000,
+		"connectionTimeout":30000
+	}
+}
